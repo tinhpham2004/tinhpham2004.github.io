@@ -16,7 +16,7 @@ function firstQuestion(){
     Swal.fire({
         title: 'Xin chào em bé!',
         text: 'Anh có điều này muốn hỏi em bé nhớ phải trả lời thật lòng nhaaa :>>>',
-        imageUrl: '../img/giphy2.gif',
+        imageUrl: '../img/cuteCat.jpg',
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("../img/iput-bg.jpg")',
